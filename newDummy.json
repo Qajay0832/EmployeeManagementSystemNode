@@ -1,0 +1,1697 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Software Development Engineer 2",
+            "name": "Ajay Tiwari",
+            "description": "Full Stack Developer",
+            "expertise": "Front-end development",
+            "experience": 4,
+            "working": 1.5,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png",
+            "email": "ajay@example.com",
+            "phone": "+1234567890",
+            "linkedin": "https://linkedin.com/in/ajaytiwari",
+            "github": "https://github.com/ajaytiwari",
+            "country": "Bangalore, India",
+            "timezone": "IST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "Project X",
+                    "projectUrl": "https://projectx.com",
+                    "role": "Lead Developer"
+                },
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "Project Y",
+                    "projectUrl": "https://projecty.com",
+                    "role": "Full Stack Developer"
+                }
+            ],
+            "skills": [
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "Redux",
+                "Nodejs"
+            ],
+            "certifications": [
+                "Certified Kubernetes Administrator",
+                "AWS Certified Developer"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "React",
+                "Node.js",
+                "GraphQL"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "A passionate software engineer with over 4 years of experience building scalable web applications.",
+            "awards": [
+                "Employee of the Year 2022",
+                "Best Innovator Award 2021"
+            ],
+            "languages": [
+                "English",
+                "Hindi"
+            ],
+            "education": [
+                {
+                    "degree": "B.Tech",
+                    "field": "Computer Science",
+                    "institution": "XYZ University",
+                    "year": 2019
+                }
+            ],
+            "interests": [
+                "Photography",
+                "Travel"
+            ]
+        },
+        {
+            "id": 2,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Software Development Engineer 3",
+            "name": "Sophia Patel",
+            "description": "Backend Developer",
+            "expertise": "Backend development",
+            "experience": 6,
+            "working": 2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/2.png",
+            "email": "sophia.patel@example.com",
+            "phone": "+9876543210",
+            "linkedin": "https://linkedin.com/in/sophiapatel",
+            "github": "https://github.com/sophiapatel",
+            "country": "Mumbai, India",
+            "timezone": "IST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "Project Z",
+                    "projectUrl": "https://projectz.com",
+                    "role": "Senior Developer"
+                }
+            ],
+            "skills": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "RESTful APIs",
+                "Docker"
+            ],
+            "certifications": [
+                "AWS Certified Solutions Architect",
+                "Oracle Java Developer"
+            ],
+            "availability": "Part-time",
+            "preferredTechStack": [
+                "Spring Boot",
+                "Java",
+                "Docker"
+            ],
+            "preferredWorkHours": "9 AM to 5 PM",
+            "achievements": "Experienced backend developer with expertise in Java and building scalable microservices.",
+            "awards": [
+                "Best Developer of the Quarter 2023"
+            ],
+            "languages": [
+                "English",
+                "Gujarati"
+            ],
+            "education": [
+                {
+                    "degree": "B.E.",
+                    "field": "Information Technology",
+                    "institution": "ABC University",
+                    "year": 2017
+                }
+            ],
+            "interests": [
+                "Coding",
+                "Reading"
+            ]
+        },
+        {
+            "id": 3,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Developer 2",
+            "name": "Michael Johnson",
+            "description": "Full Stack Developer",
+            "expertise": "Full-stack web development",
+            "experience": 5,
+            "working": 1.8,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/3.png",
+            "email": "michael.johnson@example.com",
+            "phone": "+1122334455",
+            "linkedin": "https://linkedin.com/in/michaeljohnson",
+            "github": "https://github.com/michaeljohnson",
+            "country": "New York, USA",
+            "timezone": "EST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "Project A",
+                    "projectUrl": "https://projecta.com",
+                    "role": "Full Stack Engineer"
+                }
+            ],
+            "skills": [
+                "React",
+                "Node.js",
+                "GraphQL",
+                "MongoDB",
+                "Docker"
+            ],
+            "certifications": [
+                "Certified JavaScript Developer",
+                "Docker Certified Associate"
+            ],
+            "availability": "Freelance",
+            "preferredTechStack": [
+                "React",
+                "Node.js",
+                "GraphQL"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Passionate about building scalable, efficient web applications. Specialize in full-stack development.",
+            "awards": [
+                "Employee of the Month 2022"
+            ],
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Software Engineering",
+                    "institution": "MIT",
+                    "year": 2018
+                }
+            ],
+            "interests": [
+                "Travel",
+                "Music"
+            ]
+        },
+        {
+            "id": 4,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Developer 1",
+            "name": "Emma Clark",
+            "description": "Frontend Developer",
+            "expertise": "UI/UX Design & Development",
+            "experience": 3,
+            "working": 2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/4.png",
+            "email": "emma.clark@example.com",
+            "phone": "+5566778899",
+            "linkedin": "https://linkedin.com/in/emmaclark",
+            "github": "https://github.com/emmaclark",
+            "country": "London, UK",
+            "timezone": "GMT",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "Project L",
+                    "projectUrl": "https://projectl.com",
+                    "role": "UI Developer"
+                }
+            ],
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Figma",
+                "Adobe XD"
+            ],
+            "certifications": [
+                "UI/UX Design Expert",
+                "React Certified Developer"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "React",
+                "Figma",
+                "CSS3"
+            ],
+            "preferredWorkHours": "9 AM to 6 PM",
+            "achievements": "Focused on creating beautiful, user-friendly interfaces. Expertise in UI/UX design and front-end development.",
+            "awards": [
+                "Best Designer 2021"
+            ],
+            "languages": [
+                "English",
+                "French"
+            ],
+            "education": [
+                {
+                    "degree": "B.A.",
+                    "field": "Design",
+                    "institution": "London College of Design",
+                    "year": 2020
+                }
+            ],
+            "interests": [
+                "Art",
+                "Cooking"
+            ]
+        },
+        {
+            "id": 5,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Engineer 2",
+            "name": "Liam Smith",
+            "description": "Mobile App Developer",
+            "expertise": "Android & iOS development",
+            "experience": 4,
+            "working": 1.2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/5.png",
+            "email": "liam.smith@example.com",
+            "phone": "+6677889900",
+            "linkedin": "https://linkedin.com/in/liamsmith",
+            "github": "https://github.com/liamsmith",
+            "country": "Sydney, Australia",
+            "timezone": "AEST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "App X",
+                    "projectUrl": "https://appx.com",
+                    "role": "Mobile Developer"
+                }
+            ],
+            "skills": [
+                "Java",
+                "Kotlin",
+                "Swift",
+                "React Native",
+                "Firebase"
+            ],
+            "certifications": [
+                "Google Mobile Developer",
+                "Apple Developer Program"
+            ],
+            "availability": "Part-time",
+            "preferredTechStack": [
+                "Kotlin",
+                "React Native",
+                "Firebase"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Experienced mobile app developer with a passion for building native Android and iOS applications.",
+            "awards": [
+                "Top Mobile Developer 2023"
+            ],
+            "languages": [
+                "English",
+                "Italian"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Computer Science",
+                    "institution": "University of Sydney",
+                    "year": 2018
+                }
+            ],
+            "interests": [
+                "Gaming",
+                "Cycling"
+            ]
+        },
+        {
+            "id": 6,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Team Lead",
+            "name": "Charlotte Green",
+            "description": "Backend Developer",
+            "expertise": "Database management and optimization",
+            "experience": 7,
+            "working": 2.3,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/6.png",
+            "email": "charlotte.green@example.com",
+            "phone": "+4455667788",
+            "linkedin": "https://linkedin.com/in/charlottegreen",
+            "github": "https://github.com/charlottegreen",
+            "country": "Berlin, Germany",
+            "timezone": "CET",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "DataFlow",
+                    "projectUrl": "https://dataflow.com",
+                    "role": "Database Architect"
+                }
+            ],
+            "skills": [
+                "SQL",
+                "PostgreSQL",
+                "MongoDB",
+                "Python",
+                "Django"
+            ],
+            "certifications": [
+                "AWS Certified Database Specialty",
+                "MongoDB Certified DBA"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "PostgreSQL",
+                "MongoDB",
+                "Python"
+            ],
+            "preferredWorkHours": "9 AM to 5 PM",
+            "achievements": "Experienced backend developer with strong skills in database architecture and optimization.",
+            "awards": [
+                "Best Data Engineer 2022"
+            ],
+            "languages": [
+                "English",
+                "German"
+            ],
+            "education": [
+                {
+                    "degree": "M.Sc.",
+                    "field": "Computer Science",
+                    "institution": "Technical University of Berlin",
+                    "year": 2016
+                }
+            ],
+            "interests": [
+                "Hiking",
+                "Photography"
+            ]
+        },
+        {
+            "id": 7,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Front End Lead",
+            "name": "Noah White",
+            "description": "Mobile Developer",
+            "expertise": "Cross-platform mobile applications",
+            "experience": 5,
+            "working": 1.5,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/7.png",
+            "email": "noah.white@example.com",
+            "phone": "+3344556677",
+            "linkedin": "https://linkedin.com/in/noahwhite",
+            "github": "https://github.com/noahwhite",
+            "country": "Toronto, Canada",
+            "timezone": "EST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "Mobilize",
+                    "projectUrl": "https://mobilize.com",
+                    "role": "Mobile Developer"
+                }
+            ],
+            "skills": [
+                "React Native",
+                "Flutter",
+                "Swift",
+                "Kotlin"
+            ],
+            "certifications": [
+                "Certified Android Developer",
+                "React Native Developer"
+            ],
+            "availability": "Freelance",
+            "preferredTechStack": [
+                "React Native",
+                "Flutter",
+                "Kotlin"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Building smooth cross-platform mobile apps. Expertise in React Native and Flutter for mobile solutions.",
+            "awards": [
+                "Best Mobile Developer 2023"
+            ],
+            "languages": [
+                "English",
+                "French"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Mobile Computing",
+                    "institution": "University of Toronto",
+                    "year": 2019
+                }
+            ],
+            "interests": [
+                "Cycling",
+                "Travel"
+            ]
+        },
+        {
+            "id": 8,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Front End Lead",
+            "name": "Olivia Brown",
+            "description": "Frontend Developer",
+            "expertise": "UI/UX design and frontend development",
+            "experience": 3,
+            "working": 1.2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/8.png",
+            "email": "olivia.brown@example.com",
+            "phone": "+9988776655",
+            "linkedin": "https://linkedin.com/in/oliviabrown",
+            "github": "https://github.com/oliviabrown",
+            "country": "Paris, France",
+            "timezone": "CET",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "UI Revamp",
+                    "projectUrl": "https://uirevamp.com",
+                    "role": "UI Developer"
+                }
+            ],
+            "skills": [
+                "React",
+                "CSS",
+                "Sass",
+                "Figma",
+                "Adobe XD"
+            ],
+            "certifications": [
+                "UI/UX Design Professional",
+                "Frontend Developer Certificate"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "React",
+                "CSS3",
+                "Figma"
+            ],
+            "preferredWorkHours": "9 AM to 6 PM",
+            "achievements": "Frontend developer with expertise in user interface design and web development.",
+            "awards": [
+                "Top Designer of the Year 2021"
+            ],
+            "languages": [
+                "English",
+                "French"
+            ],
+            "education": [
+                {
+                    "degree": "B.A.",
+                    "field": "Graphic Design",
+                    "institution": "Paris Design School",
+                    "year": 2018
+                }
+            ],
+            "interests": [
+                "Art",
+                "Design"
+            ]
+        },
+        {
+            "id": 9,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Backend Lead",
+            "name": "Lucas Wilson",
+            "description": "Backend Developer",
+            "expertise": "API development and microservices",
+            "experience": 6,
+            "working": 2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/9.png",
+            "email": "lucas.wilson@example.com",
+            "phone": "+1122334455",
+            "linkedin": "https://linkedin.com/in/lucaswilson",
+            "github": "https://github.com/lucaswilson",
+            "country": "Austin, USA",
+            "timezone": "CST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "MicroServiceAPI",
+                    "projectUrl": "https://microsvcapi.com",
+                    "role": "API Developer"
+                }
+            ],
+            "skills": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Docker"
+            ],
+            "certifications": [
+                "Certified Node.js Developer",
+                "Docker Certified Associate"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "Node.js",
+                "MongoDB",
+                "Docker"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Focused on backend services, APIs, and microservices architecture.",
+            "awards": [
+                "Best Backend Developer 2022"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "B.S.",
+                    "field": "Software Engineering",
+                    "institution": "University of Texas",
+                    "year": 2017
+                }
+            ],
+            "interests": [
+                "Football",
+                "Reading"
+            ]
+        },
+        {
+            "id": 10,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Cloud Engineer",
+            "name": "Amelia Lee",
+            "description": "Cloud Engineer",
+            "expertise": "Cloud infrastructure and automation",
+            "experience": 4,
+            "working": 1.7,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/10.png",
+            "email": "amelia.lee@example.com",
+            "phone": "+2233445566",
+            "linkedin": "https://linkedin.com/in/amelialee",
+            "github": "https://github.com/amelialee",
+            "country": "Singapore",
+            "timezone": "SGT",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "CloudDevOps",
+                    "projectUrl": "https://clouddevops.com",
+                    "role": "Cloud Engineer"
+                }
+            ],
+            "skills": [
+                "AWS",
+                "Terraform",
+                "Docker",
+                "CI/CD"
+            ],
+            "certifications": [
+                "AWS Certified Solutions Architect",
+                "Certified Kubernetes Administrator"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "AWS",
+                "Docker",
+                "Kubernetes"
+            ],
+            "preferredWorkHours": "9 AM to 6 PM",
+            "achievements": "Specialized in cloud infrastructure, automation, and DevOps practices.",
+            "awards": [
+                "Cloud Engineer of the Year 2021"
+            ],
+            "languages": [
+                "English",
+                "Mandarin"
+            ],
+            "education": [
+                {
+                    "degree": "B.Tech",
+                    "field": "Information Systems",
+                    "institution": "National University of Singapore",
+                    "year": 2018
+                }
+            ],
+            "interests": [
+                "Tech Meetups",
+                "Traveling"
+            ]
+        },
+        {
+            "id": 11,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "AI/ML Engineer",
+            "name": "Ethan Walker",
+            "description": "AI/ML Engineer",
+            "expertise": "Artificial Intelligence and Machine Learning",
+            "experience": 6,
+            "working": 2.1,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/11.png",
+            "email": "ethan.walker@example.com",
+            "phone": "+7766554433",
+            "linkedin": "https://linkedin.com/in/ethanwalker",
+            "github": "https://github.com/ethanwalker",
+            "country": "San Francisco, USA",
+            "timezone": "PST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "AIHealth",
+                    "projectUrl": "https://aihealth.com",
+                    "role": "Machine Learning Engineer"
+                }
+            ],
+            "skills": [
+                "Python",
+                "TensorFlow",
+                "PyTorch",
+                "Scikit-learn",
+                "OpenCV"
+            ],
+            "certifications": [
+                "Deep Learning Specialization",
+                "Machine Learning Certification by Stanford"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "Python",
+                "TensorFlow",
+                "Kubernetes"
+            ],
+            "preferredWorkHours": "9 AM to 5 PM",
+            "achievements": "AI/ML engineer with a focus on building intelligent systems for healthcare.",
+            "awards": [
+                "Top Innovator in AI 2022"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "M.Sc.",
+                    "field": "Artificial Intelligence",
+                    "institution": "Stanford University",
+                    "year": 2020
+                }
+            ],
+            "interests": [
+                "Machine Learning",
+                "Robotics"
+            ]
+        },
+        {
+            "id": 12,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Lead Data Scientist",
+            "name": "Sophia Harris",
+            "description": "Data Scientist",
+            "expertise": "Data analysis and statistical modeling",
+            "experience": 5,
+            "working": 2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/12.png",
+            "email": "sophia.harris@example.com",
+            "phone": "+9988776655",
+            "linkedin": "https://linkedin.com/in/sophiaharris",
+            "github": "https://github.com/sophiaharris",
+            "country": "London, UK",
+            "timezone": "GMT",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "DataInsights",
+                    "projectUrl": "https://datainsights.com",
+                    "role": "Lead Data Scientist"
+                }
+            ],
+            "skills": [
+                "Python",
+                "R",
+                "SQL",
+                "Tableau",
+                "PowerBI"
+            ],
+            "certifications": [
+                "Certified Data Scientist",
+                "Machine Learning Specialist"
+            ],
+            "availability": "Part-time",
+            "preferredTechStack": [
+                "Python",
+                "SQL",
+                "Tableau"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Experienced data scientist with a strong background in statistical modeling and data visualization.",
+            "awards": [
+                "Best Data Scientist 2021"
+            ],
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Data Science",
+                    "institution": "University of London",
+                    "year": 2017
+                }
+            ],
+            "interests": [
+                "Data Visualization",
+                "Cycling"
+            ]
+        },
+        {
+            "id": 13,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Project Manager",
+            "name": "Liam Martinez",
+            "description": "Full-stack Developer",
+            "expertise": "Backend and Frontend development",
+            "experience": 7,
+            "working": 2.5,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/13.png",
+            "email": "liam.martinez@example.com",
+            "phone": "+1122334455",
+            "linkedin": "https://linkedin.com/in/liammartinez",
+            "github": "https://github.com/liammartinez",
+            "country": "Sydney, Australia",
+            "timezone": "AEST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "FullStackApp",
+                    "projectUrl": "https://fullstackapp.com",
+                    "role": "Lead Developer"
+                }
+            ],
+            "skills": [
+                "JavaScript",
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Express"
+            ],
+            "certifications": [
+                "Full-Stack Development Certificate",
+                "React Certified Developer"
+            ],
+            "availability": "Freelance",
+            "preferredTechStack": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Full-stack developer experienced in building scalable web apps with modern technologies.",
+            "awards": [
+                "Best Full-stack Developer 2022"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "B.A.",
+                    "field": "Software Engineering",
+                    "institution": "University of Sydney",
+                    "year": 2015
+                }
+            ],
+            "interests": [
+                "Gaming",
+                "Tech"
+            ]
+        },
+        {
+            "id": 14,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Cloud Developer",
+            "name": "Ava Roberts",
+            "description": "Cloud Developer",
+            "expertise": "Cloud computing and infrastructure management",
+            "experience": 5,
+            "working": 2.3,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/14.png",
+            "email": "ava.roberts@example.com",
+            "phone": "+2233447788",
+            "linkedin": "https://linkedin.com/in/avaro",
+            "github": "https://github.com/avaro",
+            "country": "London, UK",
+            "timezone": "GMT",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "CloudPro",
+                    "projectUrl": "https://cloudpro.com",
+                    "role": "Cloud Developer"
+                }
+            ],
+            "skills": [
+                "AWS",
+                "Google Cloud",
+                "Terraform",
+                "Docker"
+            ],
+            "certifications": [
+                "AWS Certified Developer",
+                "Google Cloud Certified Architect"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "AWS",
+                "Docker",
+                "Terraform"
+            ],
+            "preferredWorkHours": "9 AM to 5 PM",
+            "achievements": "Cloud computing expert, specializing in infrastructure management and automation.",
+            "awards": [
+                "Best Cloud Developer 2023"
+            ],
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Information Technology",
+                    "institution": "London School of Economics",
+                    "year": 2017
+                }
+            ],
+            "interests": [
+                "Technology",
+                "Cycling"
+            ]
+        },
+        {
+            "id": 15,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "AI/ML Engineer",
+            "name": "Ethan Taylor",
+            "description": "AI Engineer",
+            "expertise": "Artificial Intelligence and Natural Language Processing",
+            "experience": 4,
+            "working": 1.9,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/15.png",
+            "email": "ethan.taylor@example.com",
+            "phone": "+1234569999",
+            "linkedin": "https://linkedin.com/in/ethantaylor",
+            "github": "https://github.com/ethantaylor",
+            "country": "Los Angeles, USA",
+            "timezone": "PST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "AIChatbot",
+                    "projectUrl": "https://aichatbot.com",
+                    "role": "Lead AI Engineer"
+                }
+            ],
+            "skills": [
+                "Python",
+                "TensorFlow",
+                "Natural Language Processing",
+                "Deep Learning"
+            ],
+            "certifications": [
+                "Deep Learning Certification",
+                "Machine Learning by Stanford"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "Python",
+                "TensorFlow",
+                "Natural Language Processing"
+            ],
+            "preferredWorkHours": "9 AM to 5 PM",
+            "achievements": "AI engineer with expertise in Natural Language Processing and deep learning.",
+            "awards": [
+                "Top AI Innovator 2022"
+            ],
+            "languages": [
+                "English",
+                "Mandarin"
+            ],
+            "education": [
+                {
+                    "degree": "M.Sc.",
+                    "field": "Artificial Intelligence",
+                    "institution": "Stanford University",
+                    "year": 2021
+                }
+            ],
+            "interests": [
+                "AI Research",
+                "Reading"
+            ]
+        },
+        {
+            "id": 16,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Software Development Engineer 3",
+            "name": "Mason Harris",
+            "description": "Web Developer",
+            "expertise": "Frontend and Backend Development",
+            "experience": 6,
+            "working": 2.2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/16.png",
+            "email": "mason.harris@example.com",
+            "phone": "+4455662233",
+            "linkedin": "https://linkedin.com/in/masonharris",
+            "github": "https://github.com/masonharris",
+            "country": "New York, USA",
+            "timezone": "EST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "WebMaster",
+                    "projectUrl": "https://webmaster.com",
+                    "role": "Full Stack Developer"
+                }
+            ],
+            "skills": [
+                "React",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "JavaScript"
+            ],
+            "certifications": [
+                "Certified React Developer",
+                "Full Stack Developer Certificate"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Full-stack developer with a passion for building fast, scalable web applications.",
+            "awards": [
+                "Developer of the Year 2021"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Computer Science",
+                    "institution": "New York University",
+                    "year": 2016
+                }
+            ],
+            "interests": [
+                "Coding",
+                "Gaming"
+            ]
+        },
+        {
+            "id": 17,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "DevOps Engineer",
+            "name": "Isabella Lee",
+            "description": "DevOps Engineer",
+            "expertise": "Continuous Integration/Continuous Deployment (CI/CD)",
+            "experience": 5,
+            "working": 2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/17.png",
+            "email": "isabella.lee@example.com",
+            "phone": "+3322119988",
+            "linkedin": "https://linkedin.com/in/isabellalee",
+            "github": "https://github.com/isabellalee",
+            "country": "Sydney, Australia",
+            "timezone": "AEST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "DevOpsPipeline",
+                    "projectUrl": "https://devopspipeline.com",
+                    "role": "DevOps Engineer"
+                }
+            ],
+            "skills": [
+                "Docker",
+                "Kubernetes",
+                "Jenkins",
+                "CI/CD",
+                "Terraform"
+            ],
+            "certifications": [
+                "AWS Certified DevOps Engineer",
+                "Certified Kubernetes Administrator"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "Docker",
+                "Kubernetes",
+                "Terraform"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Experienced DevOps Engineer with expertise in CI/CD and cloud automation.",
+            "awards": [
+                "DevOps Engineer of the Year 2023"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "B.A.",
+                    "field": "Software Engineering",
+                    "institution": "University of Sydney",
+                    "year": 2016
+                }
+            ],
+            "interests": [
+                "Automation",
+                "Travel"
+            ]
+        },
+        {
+            "id": 18,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Developer 1",
+            "name": "Lily Scott",
+            "description": "Software Engineer",
+            "expertise": "Full stack development with an emphasis on backend",
+            "experience": 3,
+            "working": 1.5,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/18.png",
+            "email": "lily.scott@example.com",
+            "phone": "+5544331122",
+            "linkedin": "https://linkedin.com/in/lilyscott",
+            "github": "https://github.com/lilyscott",
+            "country": "Berlin, Germany",
+            "timezone": "CET",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "EcommerceApp",
+                    "projectUrl": "https://ecommerceapp.com",
+                    "role": "Backend Developer"
+                }
+            ],
+            "skills": [
+                "Node.js",
+                "MongoDB",
+                "Express",
+                "JavaScript"
+            ],
+            "certifications": [
+                "Certified Node.js Developer",
+                "Full Stack Developer"
+            ],
+            "availability": "Freelance",
+            "preferredTechStack": [
+                "Node.js",
+                "MongoDB",
+                "React"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Backend developer with a focus on Node.js and scalable APIs.",
+            "awards": [
+                "Developer of the Month 2022"
+            ],
+            "languages": [
+                "English",
+                "German"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Software Engineering",
+                    "institution": "Technical University of Berlin",
+                    "year": 2020
+                }
+            ],
+            "interests": [
+                "Coding",
+                "Tech Innovations"
+            ]
+        },
+        {
+            "id": 19,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Developer 2",
+            "name": "Mia Adams",
+            "description": "Mobile App Developer",
+            "expertise": "Cross-platform app development",
+            "experience": 4,
+            "working": 1.8,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/19.png",
+            "email": "mia.adams@example.com",
+            "phone": "+8877665544",
+            "linkedin": "https://linkedin.com/in/miaadams",
+            "github": "https://github.com/miaadams",
+            "country": "San Francisco, USA",
+            "timezone": "PST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "MobileX",
+                    "projectUrl": "https://mobilx.com",
+                    "role": "Mobile Developer"
+                }
+            ],
+            "skills": [
+                "React Native",
+                "Flutter",
+                "JavaScript",
+                "Dart"
+            ],
+            "certifications": [
+                "React Native Certified Developer",
+                "Flutter Developer"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "React Native",
+                "Flutter"
+            ],
+            "preferredWorkHours": "9 AM to 5 PM",
+            "achievements": "Mobile app developer specializing in cross-platform solutions with React Native and Flutter.",
+            "awards": [
+                "Best Mobile App Developer 2023"
+            ],
+            "languages": [
+                "English",
+                "French"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Computer Science",
+                    "institution": "University of California, Berkeley",
+                    "year": 2019
+                }
+            ],
+            "interests": [
+                "Travel",
+                "Tech"
+            ]
+        },
+        {
+            "id": 20,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Engineer 2",
+            "name": "Jacob King",
+            "description": "Backend Developer",
+            "expertise": "Building scalable backend systems",
+            "experience": 6,
+            "working": 2.5,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/20.png",
+            "email": "jacob.king@example.com",
+            "phone": "+9911223344",
+            "linkedin": "https://linkedin.com/in/jacobking",
+            "github": "https://github.com/jacobking",
+            "country": "Toronto, Canada",
+            "timezone": "EST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "ScalableAPI",
+                    "projectUrl": "https://scalableapi.com",
+                    "role": "Backend Developer"
+                }
+            ],
+            "skills": [
+                "Node.js",
+                "Express",
+                "MySQL",
+                "Redis"
+            ],
+            "certifications": [
+                "Certified Backend Developer",
+                "AWS Certified Solutions Architect"
+            ],
+            "availability": "Freelance",
+            "preferredTechStack": [
+                "Node.js",
+                "MySQL",
+                "Redis"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Backend developer with expertise in building high-performance and scalable applications.",
+            "awards": [
+                "Developer of the Year 2022"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Computer Science",
+                    "institution": "University of Toronto",
+                    "year": 2017
+                }
+            ],
+            "interests": [
+                "Open Source",
+                "Music"
+            ]
+        },
+        {
+            "id": 21,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Developer 3",
+            "name": "Olivia Johnson",
+            "description": "Frontend Developer",
+            "expertise": "UI/UX Design and Frontend Technologies",
+            "experience": 3,
+            "working": 1.8,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/21.png",
+            "email": "olivia.johnson@example.com",
+            "phone": "+9988774455",
+            "linkedin": "https://linkedin.com/in/oliviajohnson",
+            "github": "https://github.com/oliviajohnson",
+            "country": "Los Angeles, USA",
+            "timezone": "PST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "DesignHub",
+                    "projectUrl": "https://designhub.com",
+                    "role": "Lead UI/UX Designer"
+                }
+            ],
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Figma"
+            ],
+            "certifications": [
+                "UX Design Certification",
+                "Certified Web Developer"
+            ],
+            "availability": "Freelance",
+            "preferredTechStack": [
+                "React",
+                "Figma",
+                "CSS"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Frontend developer with a passion for UI/UX design, specializing in React-based interfaces.",
+            "awards": [
+                "Best Designer 2021"
+            ],
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "education": [
+                {
+                    "degree": "B.A.",
+                    "field": "Graphic Design",
+                    "institution": "University of California",
+                    "year": 2018
+                }
+            ],
+            "interests": [
+                "Design",
+                "Art"
+            ]
+        },
+        {
+            "id": 22,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Engineer 2",
+            "name": "Elijah Moore",
+            "description": "Backend Developer",
+            "expertise": "Database Management and API Development",
+            "experience": 4,
+            "working": 2,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/22.png",
+            "email": "elijah.moore@example.com",
+            "phone": "+1122336677",
+            "linkedin": "https://linkedin.com/in/elijahmoore",
+            "github": "https://github.com/elijahmoore",
+            "country": "Chicago, USA",
+            "timezone": "CST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "APIService",
+                    "projectUrl": "https://apiservice.com",
+                    "role": "Backend Developer"
+                }
+            ],
+            "skills": [
+                "Node.js",
+                "Express",
+                "PostgreSQL",
+                "GraphQL",
+                "MongoDB"
+            ],
+            "certifications": [
+                "Certified Backend Developer",
+                "Database Management Certification"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "Node.js",
+                "PostgreSQL",
+                "GraphQL"
+            ],
+            "preferredWorkHours": "9 AM to 6 PM",
+            "achievements": "Backend developer specializing in building APIs and managing databases.",
+            "awards": [
+                "Backend Developer of the Year 2022"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Computer Science",
+                    "institution": "University of Chicago",
+                    "year": 2017
+                }
+            ],
+            "interests": [
+                "Tech Innovations",
+                "Coding"
+            ]
+        },
+        {
+            "id": 23,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Developer 3",
+            "name": "Amelia Clark",
+            "description": "Software Engineer",
+            "expertise": "Systems Programming and Cloud Technologies",
+            "experience": 5,
+            "working": 2.3,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/23.png",
+            "email": "amelia.clark@example.com",
+            "phone": "+3344558899",
+            "linkedin": "https://linkedin.com/in/amelia-clark",
+            "github": "https://github.com/amelia-clark",
+            "country": "Berlin, Germany",
+            "timezone": "CET",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "CloudSolutions",
+                    "projectUrl": "https://cloudsolutions.com",
+                    "role": "Cloud Engineer"
+                }
+            ],
+            "skills": [
+                "Docker",
+                "Kubernetes",
+                "Python",
+                "AWS",
+                "Linux"
+            ],
+            "certifications": [
+                "Certified Kubernetes Administrator",
+                "AWS Certified Solutions Architect"
+            ],
+            "availability": "Part-time",
+            "preferredTechStack": [
+                "AWS",
+                "Kubernetes",
+                "Python"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Software engineer with expertise in cloud infrastructure and system programming.",
+            "awards": [
+                "Best Cloud Engineer 2021"
+            ],
+            "languages": [
+                "English",
+                "German"
+            ],
+            "education": [
+                {
+                    "degree": "M.Sc.",
+                    "field": "Cloud Computing",
+                    "institution": "Technical University of Berlin",
+                    "year": 2020
+                }
+            ],
+            "interests": [
+                "Cloud Technologies",
+                "Photography"
+            ]
+        },
+        {
+            "id": 24,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Associate Software Developer 2",
+            "name": "Henry Lewis",
+            "description": "Security Engineer",
+            "expertise": "Network Security and Penetration Testing",
+            "experience": 6,
+            "working": 2.6,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/24.png",
+            "email": "henry.lewis@example.com",
+            "phone": "+9988771122",
+            "linkedin": "https://linkedin.com/in/henrylewis",
+            "github": "https://github.com/henrylewis",
+            "country": "San Francisco, USA",
+            "timezone": "PST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "SecureNet",
+                    "projectUrl": "https://securenet.com",
+                    "role": "Security Engineer"
+                }
+            ],
+            "skills": [
+                "Python",
+                "Kali Linux",
+                "Metasploit",
+                "Wireshark",
+                "OSCP"
+            ],
+            "certifications": [
+                "Certified Ethical Hacker",
+                "OSCP Certified"
+            ],
+            "availability": "Full-time",
+            "preferredTechStack": [
+                "Kali Linux",
+                "Python",
+                "Metasploit"
+            ],
+            "preferredWorkHours": "9 AM to 5 PM",
+            "achievements": "Experienced security engineer specializing in penetration testing and ethical hacking.",
+            "awards": [
+                "Top Security Engineer 2023"
+            ],
+            "languages": [
+                "English"
+            ],
+            "education": [
+                {
+                    "degree": "B.A.",
+                    "field": "Cybersecurity",
+                    "institution": "University of California",
+                    "year": 2016
+                }
+            ],
+            "interests": [
+                "Ethical Hacking",
+                "Cryptography"
+            ]
+        },
+        {
+            "id": 25,
+            "address": "332 manegaon champangar ranjhi jabalpur mp, 482005",
+            "maritalStatus": "Single",
+            "gender": "Male",
+            "dob": "08/03/1999",
+            "role": "Data Engineer",
+            "name": "Charlotte Davis",
+            "description": "Data Engineer",
+            "expertise": "Data Infrastructure and ETL Pipelines",
+            "experience": 4,
+            "working": 2.1,
+            "images": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/25.png",
+            "email": "charlotte.davis@example.com",
+            "phone": "+7755224433",
+            "linkedin": "https://linkedin.com/in/charlottedavis",
+            "github": "https://github.com/charlottedavis",
+            "country": "Chicago, USA",
+            "timezone": "CST",
+            "projects": [
+                {
+                    "projectDetails": "Managing Employee ,assigning role to them by admin",
+                    "projectUsed": "Assignment For VRV",
+                    "projectYear": "25/12/2024",
+                    "projectName": "DataPipeline",
+                    "projectUrl": "https://datapipeline.com",
+                    "role": "Data Engineer"
+                }
+            ],
+            "skills": [
+                "Python",
+                "Spark",
+                "SQL",
+                "AWS",
+                "Kafka"
+            ],
+            "certifications": [
+                "AWS Certified Data Analytics",
+                "Certified Data Engineer"
+            ],
+            "availability": "Part-time",
+            "preferredTechStack": [
+                "Python",
+                "Spark",
+                "Kafka"
+            ],
+            "preferredWorkHours": "Flexible",
+            "achievements": "Data engineer with expertise in building and managing scalable data pipelines.",
+            "awards": [
+                "Best Data Engineer 2021"
+            ],
+            "languages": [
+                "English",
+                "French"
+            ],
+            "education": [
+                {
+                    "degree": "B.Sc.",
+                    "field": "Data Engineering",
+                    "institution": "University of Chicago",
+                    "year": 2019
+                }
+            ],
+            "interests": [
+                "Data Science",
+                "Football"
+            ]
+        }
+    ]
+}
