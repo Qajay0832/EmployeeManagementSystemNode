@@ -23,7 +23,8 @@ app.get("/employee", async (req, res) => {
     try {
         const employees = await Employee.find()
         if (!employees) {
-            res.send(404, "Employees Cannot be Found")
+            res.status(404).end("Employees Cannot be Found");
+            
         }
         res.status(200).json(employees);
     }
@@ -49,6 +50,7 @@ app.get('/employee/:active/:id', async (req, res) => {
 app.post('/employee', async (req, res) => {
     try {
         const {
+            active,
             role,
             name,
             gender,
@@ -78,6 +80,7 @@ app.post('/employee', async (req, res) => {
         }
         const latestId = newId.latestId + 1;
         const newEmployee = new Employee({
+            active:active,
             id: newId.latestId,
             role,
             name,
@@ -119,6 +122,7 @@ app.post('/employee', async (req, res) => {
 app.post('/employee/:id', async (req, res) => {
     try {
         const {
+            active,
             role,
             name,
             gender,
@@ -127,7 +131,7 @@ app.post('/employee/:id', async (req, res) => {
             address,
             expertise,
             experience,
-            images,
+            // images,
             email,
             phone,
             linkedin,
@@ -147,6 +151,7 @@ app.post('/employee/:id', async (req, res) => {
         const updatedEmp = await Employee.findOneAndUpdate({ id: id },
             {
                 $set: {
+                    active:active,
                     role: role,
                     name: name,
                     gender: gender,
